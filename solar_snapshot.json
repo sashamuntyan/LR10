@@ -1,0 +1,22 @@
+{
+    "station_metadata": {
+        "facility_name": "Solar Power Plant Telemetry (Variant 1)",
+        "snapshot_generated_at": "2026-11-26 23:56:30",
+        "pipeline_version": "1.0.0"
+    },
+    "solar_telemetry_summary": {
+        "total_read_rows": 6,
+        "valid_saved_rows": 4,
+        "filtered_out_rows": 2,
+        "average_power_watts": 3161.71,
+        "total_power_watts": 12646.84,
+        "total_active_power_kw": 12.646840000000001
+    },
+    "controller_firmware_audit": {
+        "magic_signature_hex": "0x534F4C52",
+        "firmware_version": "v2.5",
+        "total_image_size_bytes": 12,
+        "payload_size_bytes": 6,
+        "is_signature_valid": true
+    }
+}
